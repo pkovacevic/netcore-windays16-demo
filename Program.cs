@@ -13,7 +13,6 @@ namespace NetCoreWindaysDemo
 
         public static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("How would you rate your Windays16 experience so far?");
             var ans = Console.ReadLine();
             
